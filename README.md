@@ -1,6 +1,6 @@
 # Microservice responsible for UI based on Vue.js and Webpack
 
-> Part of the Druply.me project
+> > This service is a part of the Druply.me project. It is front-end service that invokes back-end services.
 
 ## Build Setup
 
