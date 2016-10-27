@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  nodejs:
+    image: fortis/stackd-nodejs
+    volumes:
+      - ./:/var/www/html
+    ports:
+      - "80:8080"
